@@ -1,0 +1,5 @@
+./redirect_api/getActiveUrl.php
+./redirect_api/getinfo/index.php
+./redirect_api/getlist/index.php
+./redirect_api/getretex/index.php
+./redirect_api/getscore/index.php
